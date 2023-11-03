@@ -12,3 +12,9 @@ components:
   properties: {}
   name: navbar_links
   layout_properties: {slot: nav-right}
+- name: button_1
+  properties: {text: 'home
+
+      '}
+  type: Button
+  layout_properties: {slot: title}
