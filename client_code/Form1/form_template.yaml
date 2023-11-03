@@ -20,6 +20,10 @@ components:
     properties: {text: radio button}
     type: CheckBox
     layout_properties: {grid_position: 'DXVIKX,SQYEPN'}
+  - name: button_3
+    properties: {text: button_3}
+    type: Button
+    layout_properties: {grid_position: 'JQCGBU,BAGMDE'}
 - type: FlowPanel
   properties: {}
   name: navbar_links
